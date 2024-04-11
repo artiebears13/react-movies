@@ -4,7 +4,7 @@ export const Footer = () => {
 
             <div className="footer-copyright">
                 <div className="container">
-                    © {new Date().getFullYear()} Copyright Text
+                    © {new Date().getFullYear()} Copyright Text aaaa
                     <a className="grey-text text-lighten-4 right" href="#!">Repo</a>
                 </div>
             </div>
